@@ -1,0 +1,31 @@
+.imgsource {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.heading, .text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.heading {
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+.text.paragraph {
+    color: rgb(119, 119, 119);
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.text.list {
+    list-style-position: inside;  
+}
+
+ul.text.list li {
+    text-align: left;
+    margin-left: 40%;
+}

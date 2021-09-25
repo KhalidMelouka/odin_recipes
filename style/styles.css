@@ -1,0 +1,26 @@
+.heading, .textall {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.heading, .question {
+    text-align: center;
+}
+ .image {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;  
+ }
+
+ .heading {
+     color: #fd8181;
+ }
+
+ .question {
+     font-weight: lighter;
+ }
+
+ .ingredients, .steps, .question {
+     color: #ec9090;
+ }
+
